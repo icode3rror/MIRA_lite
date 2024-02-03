@@ -1,7 +1,7 @@
 # Mira Password Manager 
 
-yeah
-                                                                                      
+Mira is our innovative password management solution designed specifically for the command-line interface (CLI). With a streamlined and efficient approach, Mira provides a robust solution to the vulnerabilities associated with password management in the digital era. 
+                                                                                     
 ## Objectives
 
 - **Offline Security**: Mira prioritizes offline functionality to ensure password management without dependence on internet connectivity. This approach enhances security by minimizing the attack surface and reducing exposure to online threats.                     
