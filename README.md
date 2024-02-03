@@ -105,6 +105,7 @@ Unlock a world of possibilities with our Premium membership:
 - **Account Lockout**
 - **Mnemonic Option for encryption key**
 - **Reset Option**
+
 *Upgrade today for lifetime access and experience the robustness of GiraSec's MIRA for only $5 (250 PHP)!*
 
 ## License
